@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, Workshop! Version 2\n");
+    printf("Hello, GitHub!\n");
     return 0;
 }
